@@ -1,0 +1,2464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <name>Bürgernetz Dresden e. V.</name>
+    <open>1</open>
+    <description><![CDATA[<a href="https://www.fbn-dd.de/wiki/Kategorie:Standorte">Standorte im Wiki</a>]]></description>
+    <TimeStamp>
+      <when>2011-02-09</when>
+    </TimeStamp>
+
+    <Style id="link_LAN">
+      <LineStyle>
+        <color>FFFF0000</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="link_802.11a">
+      <LineStyle>
+        <color>FF0000FF</color>
+        <width>8</width>
+      </LineStyle>
+    </Style>
+    <Style id="link_802.11b">
+      <LineStyle>
+        <color>FF0000FF</color>
+        <width>8</width>
+      </LineStyle>
+    </Style>
+    <Style id="link_802.11g">
+      <LineStyle>
+        <color>FF0000FF</color>
+        <width>8</width>
+      </LineStyle>
+    </Style>
+    <Style id="link_TC">
+      <LineStyle>
+        <color>FF0000FF</color>
+        <width>8</width>
+      </LineStyle>
+    </Style>
+	<Style id="AP">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="VZ">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon56.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+     <Placemark id="VZ_DD">
+        <name>Vereinszentrum Dresden</name>
+        <description><![CDATA[]]></description>
+        <address>Freiberger Straße 8, 01067 Dresden</address>
+        <LookAt>
+          <longitude>13.7250789462</longitude>
+          <latitude>51.0506683722</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#VZ</styleUrl>
+        <Point>
+          <coordinates>13.7250789462,51.0506683722,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="VZ_Rdbl">
+        <name>Vereinszentrum Radebeul</name>
+        <description><![CDATA[]]></description>
+        <address>Kötitzer Straße 6, 01445 Radebeul</address>
+        <LookAt>
+          <longitude>13.6256833168</longitude>
+          <latitude>51.1054289719</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#VZ</styleUrl>
+        <Point>
+          <coordinates>13.6256833168,51.1054289719,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="VZ_Ftl_vz">
+        <name>Vereinszentrum Freital</name>
+        <description><![CDATA[]]></description>
+        <address>Dresdner Straße 248, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.643149</longitude>
+          <latitude>50.992721</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#VZ</styleUrl>
+        <Point>
+          <coordinates>13.643149,50.992721,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="VZ_DD_vzsch">
+        <name>Vereinszentrum Schönfeld</name>
+        <description><![CDATA[]]></description>
+        <address>Borsbergstraße 1,  Dresden</address>
+        <LookAt>
+          <longitude>13.8959857821</longitude>
+          <latitude>51.0329844333</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#VZ</styleUrl>
+        <Point>
+          <coordinates>13.8959857821,51.0329844333,0</coordinates>
+        </Point>
+      </Placemark>
+     <Folder>
+        <name>Coswig</name>
+        <description><![CDATA[]]></description>
+        <LookAt>
+          <longitude>13.5810813783</longitude>
+          <latitude>51.1276646286</latitude>
+          <altitude>0</altitude>
+          <range>4500</range>
+          <tilt>9.733975746110964e-012</tilt>
+          <heading>-0.08753148561470861</heading>
+        </LookAt>
+     <Placemark id="AP_4">
+        <name>CO1</name>
+        <description><![CDATA[]]></description>
+        <address>Lößnitzstr. 9a, 01640 Coswig</address>
+        <LookAt>
+          <longitude>13.591428995132446</longitude>
+          <latitude>51.12488949812129</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.591428995132446,51.12488949812129,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_34">
+        <name>CO3</name>
+        <description><![CDATA[]]></description>
+        <address>Peter-Pauls-Kirche, 01640 Coswig</address>
+        <LookAt>
+          <longitude>13.5830858030845</longitude>
+          <latitude>51.12618628319213</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.5830858030845,51.12618628319213,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_33">
+        <name>CSW</name>
+        <description><![CDATA[]]></description>
+        <address>Am Ringpark 3a, 01640 Coswig</address>
+        <LookAt>
+          <longitude>13.585249185562134</longitude>
+          <latitude>51.12694322637163</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.585249185562134,51.12694322637163,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_125">
+        <name>LBW</name>
+        <description><![CDATA[]]></description>
+        <address>Langenbergweg 12, 01445 Radebeul</address>
+        <LookAt>
+          <longitude>13.606347441673279</longitude>
+          <latitude>51.1227212006786</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.606347441673279,51.1227212006786,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_174">
+        <name>ZIT</name>
+        <description><![CDATA[]]></description>
+        <address>Altzitzschewig 10, 01445 Radebeul</address>
+        <LookAt>
+          <longitude>13.604174852371216</longitude>
+          <latitude>51.118569502489414</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.604174852371216,51.118569502489414,0</coordinates>
+        </Point>
+      </Placemark>
+
+      </Folder>
+     <Folder>
+        <name>Dresden</name>
+        <description><![CDATA[]]></description>
+        <LookAt>
+          <longitude>13.7644551597</longitude>
+          <latitude>51.0522863846</latitude>
+          <altitude>0</altitude>
+          <range>16000</range>
+          <tilt>9.733975746110964e-012</tilt>
+          <heading>-0.08753148561470861</heading>
+        </LookAt>
+     <Placemark id="AP_16">
+        <name>ADP</name>
+        <description><![CDATA[]]></description>
+        <address>Amalie-Dietrich-Platz 9, 01169 Dresden</address>
+        <LookAt>
+          <longitude>13.677922189235687</longitude>
+          <latitude>51.043849322369276</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.677922189235687,51.043849322369276,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_147">
+        <name>ADS</name>
+        <description><![CDATA[]]></description>
+        <address>Auf dem Sand 10, 01109 Dresden</address>
+        <LookAt>
+          <longitude>13.753670454025268</longitude>
+          <latitude>51.10980021308024</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.753670454025268,51.10980021308024,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_8">
+        <name>ASM</name>
+        <description><![CDATA[]]></description>
+        <address>Agnes-Smedley-Straße 2, 01187 Dresden</address>
+        <LookAt>
+          <longitude>13.70410277777778</longitude>
+          <latitude>51.03401111111111</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.70410277777778,51.03401111111111,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_24">
+        <name>BBA</name>
+        <description><![CDATA[]]></description>
+        <address>Bertolt-Brecht-Allee, 01309 Dresden</address>
+        <LookAt>
+          <longitude>13.78034444444444</longitude>
+          <latitude>51.04035555555556</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.78034444444444,51.04035555555556,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_25">
+        <name>BGM</name>
+        <description><![CDATA[]]></description>
+        <address>Bergmannstraße 32, 01309 Dresden</address>
+        <LookAt>
+          <longitude>13.78940861111111</longitude>
+          <latitude>51.0452</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.78940861111111,51.0452,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_26">
+        <name>BLA</name>
+        <description><![CDATA[]]></description>
+        <address>Blasewitzer Straße 52, 01307 Dresden</address>
+        <LookAt>
+          <longitude>13.776286840438843</longitude>
+          <latitude>51.05204437044304</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.776286840438843,51.05204437044304,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_5">
+        <name>BUD</name>
+        <description><![CDATA[]]></description>
+        <address>Budapester Straße 22, 01069 Dresden</address>
+        <LookAt>
+          <longitude>13.72247222222222</longitude>
+          <latitude>51.04313333333333</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.72247222222222,51.04313333333333,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_119">
+        <name>BUR</name>
+        <description><![CDATA[]]></description>
+        <address>Burgkstraße 27, 01159 Dresden</address>
+        <LookAt>
+          <longitude>13.697097301483154</longitude>
+          <latitude>51.04733323809034</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.697097301483154,51.04733323809034,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_30">
+        <name>EBS</name>
+        <description><![CDATA[]]></description>
+        <address>Elsa-Brandström-Straße 10, 01219 Dresden</address>
+        <LookAt>
+          <longitude>13.765292465686798</longitude>
+          <latitude>51.02592603454098</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.765292465686798,51.02592603454098,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_2">
+        <name>FBG</name>
+        <description><![CDATA[]]></description>
+        <address>Freiberger Straße 8, 01067 Dresden</address>
+        <LookAt>
+          <longitude>13.724514842033386</longitude>
+          <latitude>51.05062635990102</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.724514842033386,51.05062635990102,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_14">
+        <name>FRB</name>
+        <description><![CDATA[]]></description>
+        <address>Fröbelstraße 57, 01159 Dresden</address>
+        <LookAt>
+          <longitude>13.70556503534317</longitude>
+          <latitude>51.05094672279731</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.70556503534317,51.05094672279731,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_198">
+        <name>GHS</name>
+        <description><![CDATA[]]></description>
+        <address>Großenhainer Straße 223, 01129 Dresden</address>
+        <LookAt>
+          <longitude>13.718964010477066</longitude>
+          <latitude>51.095921365780534</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.718964010477066,51.095921365780534,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_15">
+        <name>GOH</name>
+        <description><![CDATA[]]></description>
+        <address>Gohliser Straße 22, 01159 Dresden</address>
+        <LookAt>
+          <longitude>13.696083426475525</longitude>
+          <latitude>51.04672281293354</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.696083426475525,51.04672281293354,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_18">
+        <name>HDP</name>
+        <description><![CDATA[]]></description>
+        <address>Ostraallee 20, 01067 Dresden</address>
+        <LookAt>
+          <longitude>13.72967051770723</longitude>
+          <latitude>51.05737056634858</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.72967051770723,51.05737056634858,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_6">
+        <name>HSS</name>
+        <description><![CDATA[]]></description>
+        <address>Hochschulstraße 48, 01069 Dresden</address>
+        <LookAt>
+          <longitude>13.7309305555555</longitude>
+          <latitude>51.0320194444444</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.7309305555555,51.0320194444444,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_21">
+        <name>KAM</name>
+        <description><![CDATA[]]></description>
+        <address>Kamenzer Straße 45, 01099 Dresden</address>
+        <LookAt>
+          <longitude>13.75886111111111</longitude>
+          <latitude>51.06869722222222</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.75886111111111,51.06869722222222,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_193">
+        <name>KFR</name>
+        <description><![CDATA[]]></description>
+        <address>Frankenring 13, 01723 Kesselsdorf</address>
+        <LookAt>
+          <longitude>13.593639135360718</longitude>
+          <latitude>51.0370291277358</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.593639135360718,51.0370291277358,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_165">
+        <name>KRE1</name>
+        <description><![CDATA[]]></description>
+        <address>Krebs 40, 01809 Krebs</address>
+        <LookAt>
+          <longitude>13.891353607177734</longitude>
+          <latitude>50.93701268965774</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.891353607177734,50.93701268965774,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_184">
+        <name>KRE2</name>
+        <description><![CDATA[]]></description>
+        <address>Krebs 40, 01809 Krebs</address>
+        <LookAt>
+          <longitude>13.891632556915283</longitude>
+          <latitude>50.93701945069458</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.891632556915283,50.93701945069458,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_185">
+        <name>KRE3</name>
+        <description><![CDATA[]]></description>
+        <address>, 01809 Krebs</address>
+        <LookAt>
+          <longitude>13.892050981521606</longitude>
+          <latitude>50.936214880407306</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.892050981521606,50.936214880407306,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_19">
+        <name>LAN</name>
+        <description><![CDATA[]]></description>
+        <address>Lannerstraße 1, 01219 Dresden</address>
+        <LookAt>
+          <longitude>13.761274516582489</longitude>
+          <latitude>51.02733931856043</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.761274516582489,51.02733931856043,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_22">
+        <name>LBM</name>
+        <description><![CDATA[]]></description>
+        <address>Lubminer Straße 19, 01109 Dresden</address>
+        <LookAt>
+          <longitude>13.77021944444444</longitude>
+          <latitude>51.11753888888888</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.77021944444444,51.11753888888888,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_12">
+        <name>LER</name>
+        <description><![CDATA[]]></description>
+        <address>Am Lerchenberg 15, 01159 Dresden</address>
+        <LookAt>
+          <longitude>13.69781276212321</longitude>
+          <latitude>51.04835025112813</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.69781276212321,51.04835025112813,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_139">
+        <name>LIN</name>
+        <description><![CDATA[]]></description>
+        <address>Bautzner Strasse 132 , 01099 Dresden</address>
+        <LookAt>
+          <longitude>13.797755241394043</longitude>
+          <latitude>51.064148804633305</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.797755241394043,51.064148804633305,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_143">
+        <name>LUF</name>
+        <description><![CDATA[]]></description>
+        <address>Luftbadstraße 19, 01187 Dresden</address>
+        <LookAt>
+          <longitude>13.697279691696167</longitude>
+          <latitude>51.027790581910615</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.697279691696167,51.027790581910615,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_164">
+        <name>MEG</name>
+        <description><![CDATA[]]></description>
+        <address>, 01809 Meusegast</address>
+        <LookAt>
+          <longitude>13.878693580627441</longitude>
+          <latitude>50.930088872026545</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.878693580627441,50.930088872026545,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_196">
+        <name>MIC</name>
+        <description><![CDATA[]]></description>
+        <address>Michelangelostraße 7, 01217 Dresden</address>
+        <LookAt>
+          <longitude>13.742431998252869</longitude>
+          <latitude>51.022029263745885</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.742431998252869,51.022029263745885,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_176">
+        <name>MLP</name>
+        <description><![CDATA[]]></description>
+        <address>Martin-Luther-Platz 5, 01099 Dresden</address>
+        <LookAt>
+          <longitude>13.75669464468956</longitude>
+          <latitude>51.06429208330005</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.75669464468956,51.06429208330005,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_142">
+        <name>OSG</name>
+        <description><![CDATA[]]></description>
+        <address>Sportschulzentrum Ostragehege, 01067 Dresden</address>
+        <LookAt>
+          <longitude>13.718297481536865</longitude>
+          <latitude>51.06899643411887</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.718297481536865,51.06899643411887,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_17">
+        <name>PAR</name>
+        <description><![CDATA[]]></description>
+        <address>Parkstraße 5, 01069 Dresden</address>
+        <LookAt>
+          <longitude>13.74414444444444</longitude>
+          <latitude>51.03793888888889</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.74414444444444,51.03793888888889,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_183">
+        <name>PSO</name>
+        <description><![CDATA[]]></description>
+        <address>Varkausring 1a, 01796 Pirna</address>
+        <LookAt>
+          <longitude>13.9586341381073</longitude>
+          <latitude>50.95489895343359</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.9586341381073,50.95489895343359,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_20">
+        <name>RAT</name>
+        <description><![CDATA[]]></description>
+        <address>Rathener Straße 113, 01259 Dresden</address>
+        <LookAt>
+          <longitude>13.833085298538208</longitude>
+          <latitude>51.00123195149203</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.833085298538208,51.00123195149203,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_32">
+        <name>RIE</name>
+        <description><![CDATA[]]></description>
+        <address>Rietzstraße 31, 01139 Dresden</address>
+        <LookAt>
+          <longitude>13.71051245666499</longitude>
+          <latitude>51.08263703501141</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.71051245666499,51.08263703501141,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_191">
+        <name>ROD</name>
+        <description><![CDATA[]]></description>
+        <address>Am Landgut, 01809 Dohna</address>
+        <LookAt>
+          <longitude>13.80781888961792</longitude>
+          <latitude>50.9655355149281</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.80781888961792,50.9655355149281,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_27">
+        <name>SAN</name>
+        <description><![CDATA[]]></description>
+        <address>Schandauer Straße, 01309 Dresden</address>
+        <LookAt>
+          <longitude>13.799986839294434</longitude>
+          <latitude>51.04174468098618</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.799986839294434,51.04174468098618,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_23">
+        <name>SFD</name>
+        <description><![CDATA[]]></description>
+        <address>Am Schulfeld, 01109 Dresden</address>
+        <LookAt>
+          <longitude>13.76140555555556</longitude>
+          <latitude>51.11356388888889</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.76140555555556,51.11356388888889,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_127">
+        <name>SIE</name>
+        <description><![CDATA[]]></description>
+        <address>Marie-Curie-Strasse 10, 01139 Dresden</address>
+        <LookAt>
+          <longitude>13.686513304710388</longitude>
+          <latitude>51.074676077216225</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.686513304710388,51.074676077216225,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_28">
+        <name>SLS</name>
+        <description><![CDATA[]]></description>
+        <address>Schlüterstraße 19, 01277 Dresden</address>
+        <LookAt>
+          <longitude>13.790920972824097</longitude>
+          <latitude>51.03808156748917</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.790920972824097,51.03808156748917,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_186">
+        <name>SRS</name>
+        <description><![CDATA[]]></description>
+        <address>Sürßen Nr. 7, 01809 Dohna OT Sürßen</address>
+        <LookAt>
+          <longitude>13.834480047225952</longitude>
+          <latitude>50.95025905518961</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.834480047225952,50.95025905518961,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_129">
+        <name>TAL</name>
+        <description><![CDATA[]]></description>
+        <address>Am Talkenberg 5, 01109 Dresden</address>
+        <LookAt>
+          <longitude>13.758932948112487</longitude>
+          <latitude>51.1099618740237</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.758932948112487,51.1099618740237,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_29">
+        <name>TGS</name>
+        <description><![CDATA[]]></description>
+        <address>Tiergartenstraße, 01219 Dresden</address>
+        <LookAt>
+          <longitude>13.77373888888889</longitude>
+          <latitude>51.02933333333333</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.77373888888889,51.02933333333333,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_205">
+        <name>TRO</name>
+        <description><![CDATA[]]></description>
+        <address>,  Tronitz</address>
+        <LookAt>
+          <longitude>13.817330002784729</longitude>
+          <latitude>50.94454049534274</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.817330002784729,50.94454049534274,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_171">
+        <name>WDM</name>
+        <description><![CDATA[]]></description>
+        <address>Großenhainer Straße 243, 01129 Dresden</address>
+        <LookAt>
+          <longitude>13.716253638267517</longitude>
+          <latitude>51.09834779089073</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.716253638267517,51.09834779089073,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_13">
+        <name>WER</name>
+        <description><![CDATA[]]></description>
+        <address>Wernerstraße 21, 01159 Dresden</address>
+        <LookAt>
+          <longitude>13.702518045902252</longitude>
+          <latitude>51.04577849297557</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.702518045902252,51.04577849297557,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_3">
+        <name>WUN</name>
+        <description><![CDATA[]]></description>
+        <address>Wundtstraße 9, 01217 Dresden</address>
+        <LookAt>
+          <longitude>13.74963611111111</longitude>
+          <latitude>51.02871388888889</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.74963611111111,51.02871388888889,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_7">
+        <name>ZEU</name>
+        <description><![CDATA[]]></description>
+        <address>Bergstraße 78, 01069 Dresden</address>
+        <LookAt>
+          <longitude>13.731236457824707</longitude>
+          <latitude>51.02632121856641</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.731236457824707,51.02632121856641,0</coordinates>
+        </Point>
+      </Placemark>
+
+      </Folder>
+     <Folder>
+        <name>Freital</name>
+        <description><![CDATA[]]></description>
+        <LookAt>
+          <longitude>13.6388146721</longitude>
+          <latitude>50.9901169985</latitude>
+          <altitude>0</altitude>
+          <range>7000</range>
+          <tilt>9.733975746110964e-012</tilt>
+          <heading>-0.08753148561470861</heading>
+        </LookAt>
+     <Placemark id="AP_168">
+        <name>BES</name>
+        <description><![CDATA[]]></description>
+        <address>Kirchstraße 1, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.631479740142822</longitude>
+          <latitude>50.98178636919023</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.631479740142822,50.98178636919023,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_154">
+        <name>BGK</name>
+        <description><![CDATA[]]></description>
+        <address>Bormannsberg 13, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.67175579071045</longitude>
+          <latitude>51.00252150751078</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.67175579071045,51.00252150751078,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_62">
+        <name>BGL</name>
+        <description><![CDATA[]]></description>
+        <address>Berglehne 27, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.631662130355835</longitude>
+          <latitude>50.99152199670705</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.631662130355835,50.99152199670705,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_63">
+        <name>BGS</name>
+        <description><![CDATA[]]></description>
+        <address>Bergstraße 18, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.634617924690247</longitude>
+          <latitude>50.99303804491056</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.634617924690247,50.99303804491056,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_68">
+        <name>BI2</name>
+        <description><![CDATA[]]></description>
+        <address>Gitterseer Strasse 25, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.679695129394531</longitude>
+          <latitude>51.01147314382957</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.679695129394531,51.01147314382957,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_70">
+        <name>BK2</name>
+        <description><![CDATA[]]></description>
+        <address>Rotkopf-Görg-Straße 104, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.667665421962738</longitude>
+          <latitude>50.999658779647284</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.667665421962738,50.999658779647284,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_66">
+        <name>BKT</name>
+        <description><![CDATA[]]></description>
+        <address>Käthe-Kollwitz-Straße 13, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.670071363449097</longitude>
+          <latitude>51.00863797084008</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.670071363449097,51.00863797084008,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_69">
+        <name>BSZ</name>
+        <description><![CDATA[]]></description>
+        <address>Otto-Dix-Straße 2, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.662958145141602</longitude>
+          <latitude>51.00384478427679</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.662958145141602,51.00384478427679,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_130">
+        <name>DRK</name>
+        <description><![CDATA[]]></description>
+        <address>Dresdner Strasse 207, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.65102767944336</longitude>
+          <latitude>51.000779585653</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.65102767944336,51.000779585653,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_152">
+        <name>ESW</name>
+        <description><![CDATA[]]></description>
+        <address>Am Stahlwerk 1, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.642659187316895</longitude>
+          <latitude>50.99657979971024</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.642659187316895,50.99657979971024,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_58">
+        <name>HB2</name>
+        <description><![CDATA[]]></description>
+        <address>Südstraße 1, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.631597757339478</longitude>
+          <latitude>50.98513311592735</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.631597757339478,50.98513311592735,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_122">
+        <name>HB5</name>
+        <description><![CDATA[]]></description>
+        <address>Rabenauer Fussweg 8, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.632096648216248</longitude>
+          <latitude>50.974328774201176</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.632096648216248,50.974328774201176,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_57">
+        <name>HBG</name>
+        <description><![CDATA[]]></description>
+        <address>Rabenauer Straße 8, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.63199836400608</longitude>
+          <latitude>50.98282501970957</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.63199836400608,50.98282501970957,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_121">
+        <name>HBK</name>
+        <description><![CDATA[]]></description>
+        <address>Kirchstraße 12, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.63351821899414</longitude>
+          <latitude>50.98062795362036</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.63351821899414,50.98062795362036,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_190">
+        <name>HOE</name>
+        <description><![CDATA[]]></description>
+        <address>Höhenstraße 23,  Rabenau</address>
+        <LookAt>
+          <longitude>13.6360502243042</longitude>
+          <latitude>50.96677200924434</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.6360502243042,50.96677200924434,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_194">
+        <name>KNC</name>
+        <description><![CDATA[]]></description>
+        <address>Cunnersdorfer Straße, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.690484315156937</longitude>
+          <latitude>51.001540840556906</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.690484315156937,51.001540840556906,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_169">
+        <name>KND</name>
+        <description><![CDATA[]]></description>
+        <address>Am Seilerschuppen 2b, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.685107827186584</longitude>
+          <latitude>51.001448005261764</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.685107827186584,51.001448005261764,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_170">
+        <name>KOH</name>
+        <description><![CDATA[]]></description>
+        <address>Kohlenstraße 12, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.683536052703857</longitude>
+          <latitude>51.00167080965805</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.683536052703857,51.00167080965805,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_160">
+        <name>KOP</name>
+        <description><![CDATA[]]></description>
+        <address>Weißiger Str. 7, 01723 Wilsdruff OT Kleinopitz</address>
+        <LookAt>
+          <longitude>13.594915866851807</longitude>
+          <latitude>51.003483587476246</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.594915866851807,51.003483587476246,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_182">
+        <name>MAS</name>
+        <description><![CDATA[]]></description>
+        <address>Schachtstraße 12 OT Cunnersdorf, 01728 Bannewitz</address>
+        <LookAt>
+          <longitude>13.704387545585632</longitude>
+          <latitude>50.99609362630656</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.704387545585632,50.99609362630656,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_67">
+        <name>OB2</name>
+        <description><![CDATA[]]></description>
+        <address>Burgker Straße 135, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.678917288780212</longitude>
+          <latitude>51.00323041047234</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.678917288780212,51.00323041047234,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_71">
+        <name>OBK</name>
+        <description><![CDATA[]]></description>
+        <address>Burgker Straße 152, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.683434128761292</longitude>
+          <latitude>51.00285233024087</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.683434128761292,51.00285233024087,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_85">
+        <name>OEL</name>
+        <description><![CDATA[]]></description>
+        <address>Alte Strasse 10, 01734 Rabenau OT Oelsa</address>
+        <LookAt>
+          <longitude>13.66972267627716</longitude>
+          <latitude>50.946561674298785</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.66972267627716,50.946561674298785,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_195">
+        <name>OEM</name>
+        <description><![CDATA[]]></description>
+        <address>OT Oelsa,  Rabenau</address>
+        <LookAt>
+          <longitude>13.665297031402588</longitude>
+          <latitude>50.95158044265077</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.665297031402588,50.95158044265077,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_74">
+        <name>PS2</name>
+        <description><![CDATA[]]></description>
+        <address>Am Jochhöh 5, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.662883043289185</longitude>
+          <latitude>51.016397157367216</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.662883043289185,51.016397157367216,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_124">
+        <name>PS3</name>
+        <description><![CDATA[]]></description>
+        <address>Dresdner Straße 84, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.661638498306274</longitude>
+          <latitude>51.01075761652078</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.661638498306274,51.01075761652078,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_76">
+        <name>RA2</name>
+        <description><![CDATA[]]></description>
+        <address>Höhenstraße 7, 01734 Rabenau</address>
+        <LookAt>
+          <longitude>13.639054298400879</longitude>
+          <latitude>50.966369983282505</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.639054298400879,50.966369983282505,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_56">
+        <name>RAB</name>
+        <description><![CDATA[]]></description>
+        <address>August-Bebel-Straße 9, 01734 Rabenau</address>
+        <LookAt>
+          <longitude>13.644343614578247</longitude>
+          <latitude>50.96603890046612</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.644343614578247,50.96603890046612,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_89">
+        <name>RAS</name>
+        <description><![CDATA[]]></description>
+        <address>Schulstraße 7, 01734 Rabenau</address>
+        <LookAt>
+          <longitude>13.647058010101318</longitude>
+          <latitude>50.965167262992445</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.647058010101318,50.965167262992445,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_75">
+        <name>SB1</name>
+        <description><![CDATA[]]></description>
+        <address>Thomas-Mann-Straße 14, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.654696941375732</longitude>
+          <latitude>51.014905496337605</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.654696941375732,51.014905496337605,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_177">
+        <name>SB2</name>
+        <description><![CDATA[]]></description>
+        <address>Albrecht-Dürer-Str. 8, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.655351400375366</longitude>
+          <latitude>51.013670283692846</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.655351400375366,51.013670283692846,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_82">
+        <name>SB3</name>
+        <description><![CDATA[]]></description>
+        <address>Oberpesterwitzer Str. 17, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.657035827636719</longitude>
+          <latitude>51.0184523311793</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.657035827636719,51.0184523311793,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_80">
+        <name>SB5</name>
+        <description><![CDATA[]]></description>
+        <address>Burgwartstraße 10, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.658355474472046</longitude>
+          <latitude>51.01642753005712</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.658355474472046,51.01642753005712,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_120">
+        <name>SOM</name>
+        <description><![CDATA[]]></description>
+        <address>Lübauer Straße 3, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.604507446289062</longitude>
+          <latitude>50.97411259416559</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.604507446289062,50.97411259416559,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_59">
+        <name>TUL</name>
+        <description><![CDATA[]]></description>
+        <address>Tulpenstraße 12, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.63203763961792</longitude>
+          <latitude>50.9788210378154</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.63203763961792,50.9788210378154,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_144">
+        <name>VOD</name>
+        <description><![CDATA[]]></description>
+        <address>Kohlsdorfer Weg, 01156 Dresden</address>
+        <LookAt>
+          <longitude>13.631935715675354</longitude>
+          <latitude>51.03667830917248</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.631935715675354,51.03667830917248,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_150">
+        <name>VZFTL</name>
+        <description><![CDATA[]]></description>
+        <address>Dresdner Straße 248, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.643249273300171</longitude>
+          <latitude>50.99258222270632</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.643249273300171,50.99258222270632,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_166">
+        <name>WNB</name>
+        <description><![CDATA[]]></description>
+        <address>Hartmanns Berg 26, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.676851987838745</longitude>
+          <latitude>50.99862572362806</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.676851987838745,50.99862572362806,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_64">
+        <name>WS1</name>
+        <description><![CDATA[]]></description>
+        <address>Deubener Weg, 01705 Weiig</address>
+        <LookAt>
+          <longitude>13.61422273028301</longitude>
+          <latitude>50.99826935782073</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.61422273028301,50.99826935782073,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_65">
+        <name>WS2</name>
+        <description><![CDATA[]]></description>
+        <address>Schulstrasse 4, 01705 Weiig</address>
+        <LookAt>
+          <longitude>13.61559148352079</longitude>
+          <latitude>51.00427946046901</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.61559148352079,51.00427946046901,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_178">
+        <name>WS3</name>
+        <description><![CDATA[]]></description>
+        <address>, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.613968</longitude>
+          <latitude>50.998364</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.613968,50.998364,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_79">
+        <name>WS4</name>
+        <description><![CDATA[]]></description>
+        <address>Schäfereiweg 2, 01705 Weiig</address>
+        <LookAt>
+          <longitude>13.605005</longitude>
+          <latitude>50.998908</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.605005,50.998908,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_159">
+        <name>WSS</name>
+        <description><![CDATA[]]></description>
+        <address>Weißiger Straße 82, 01705 Freital</address>
+        <LookAt>
+          <longitude>13.642369508743286</longitude>
+          <latitude>51.00653510560332</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.642369508743286,51.00653510560332,0</coordinates>
+        </Point>
+      </Placemark>
+
+      </Folder>
+     <Folder>
+        <name>LET</name>
+        <description><![CDATA[]]></description>
+        <LookAt>
+          <longitude></longitude>
+          <latitude></latitude>
+          <altitude>0</altitude>
+          <range></range>
+          <tilt>9.733975746110964e-012</tilt>
+          <heading>-0.08753148561470861</heading>
+        </LookAt>
+     <Placemark id="AP_192">
+        <name>BAZ</name>
+        <description><![CDATA[]]></description>
+        <address>Schlossstraße 2, 01665 Klipphausen</address>
+        <LookAt>
+          <longitude>13.497594594955444</longitude>
+          <latitude>51.13284802800757</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.497594594955444,51.13284802800757,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_131">
+        <name>CON</name>
+        <description><![CDATA[]]></description>
+        <address>Alter Schulweg 4, 01665 Klipphausen</address>
+        <LookAt>
+          <longitude>13.56762170791626</longitude>
+          <latitude>51.105617039548946</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.56762170791626,51.105617039548946,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_187">
+        <name>EIB</name>
+        <description><![CDATA[]]></description>
+        <address>Eichberg 2, 01665 Klipphausen</address>
+        <LookAt>
+          <longitude>13.55189323425293</longitude>
+          <latitude>51.11602375119971</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.55189323425293,51.11602375119971,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_47">
+        <name>GAU</name>
+        <description><![CDATA[]]></description>
+        <address>Am Füllbusch 4, 01665 Klipphausen</address>
+        <LookAt>
+          <longitude>13.562675714492798</longitude>
+          <latitude>51.1126662430311</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.562675714492798,51.1126662430311,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_188">
+        <name>GBA</name>
+        <description><![CDATA[]]></description>
+        <address>Am Grundbach 5, 01665 Klipphausen</address>
+        <LookAt>
+          <longitude>13.55689823627472</longitude>
+          <latitude>51.113979640371895</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.55689823627472,51.113979640371895,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_202">
+        <name>KSO</name>
+        <description><![CDATA[]]></description>
+        <address>Sonnenlehne 26, 01665 Klipphausen</address>
+        <LookAt>
+          <longitude>13.5605700</longitude>
+          <latitude>51.0859900</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.5605700,51.0859900,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_203">
+        <name>KSU</name>
+        <description><![CDATA[]]></description>
+        <address>Schmiedeberg 7, 01665 Klipphausen</address>
+        <LookAt>
+          <longitude>13.5652300</longitude>
+          <latitude>51.0847100</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.5652300,51.0847100,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_151">
+        <name>NAS</name>
+        <description><![CDATA[]]></description>
+        <address>Pinnenweg  8, 01665 Klipphausen</address>
+        <LookAt>
+          <longitude>13.514605164527893</longitude>
+          <latitude>51.11763001536805</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.514605164527893,51.11763001536805,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_146">
+        <name>NAU</name>
+        <description><![CDATA[]]></description>
+        <address>Scharfenberger Str. 1, 01665 Klipphausen</address>
+        <LookAt>
+          <longitude>13.513848781585693</longitude>
+          <latitude>51.11528289775608</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.513848781585693,51.11528289775608,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_200">
+        <name>NGA</name>
+        <description><![CDATA[]]></description>
+        <address>Langer Weg 7, 01665 Klipphausen</address>
+        <LookAt>
+          <longitude>13.567181825637817</longitude>
+          <latitude>51.110642190963524</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.567181825637817,51.110642190963524,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_179">
+        <name>PEG</name>
+        <description><![CDATA[]]></description>
+        <address>Altes Rittergut Nr.7, 01665 Klipphausen</address>
+        <LookAt>
+          <longitude>13.531540632247924</longitude>
+          <latitude>51.11611467330396</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.531540632247924,51.11611467330396,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_55">
+        <name>PIN</name>
+        <description><![CDATA[]]></description>
+        <address>Pinkowitz Nr. 4c , 01665 Klipphausen</address>
+        <LookAt>
+          <longitude>13.548953533172607</longitude>
+          <latitude>51.10453245127441</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.548953533172607,51.10453245127441,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_53">
+        <name>ROE</name>
+        <description><![CDATA[]]></description>
+        <address>Kirchberg 5, 01665 Klipphausen</address>
+        <LookAt>
+          <longitude>13.524727821350097</longitude>
+          <latitude>51.095723439337206</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.524727821350097,51.095723439337206,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_201">
+        <name>WIL</name>
+        <description><![CDATA[]]></description>
+        <address>,  </address>
+        <LookAt>
+          <longitude>13.581923246383667</longitude>
+          <latitude>51.101177476750514</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.581923246383667,51.101177476750514,0</coordinates>
+        </Point>
+      </Placemark>
+
+      </Folder>
+     <Folder>
+        <name>Radebeul</name>
+        <description><![CDATA[]]></description>
+        <LookAt>
+          <longitude>13.6241216866</longitude>
+          <latitude>51.1134133863</latitude>
+          <altitude>0</altitude>
+          <range>10000</range>
+          <tilt>9.733975746110964e-012</tilt>
+          <heading>-0.08753148561470861</heading>
+        </LookAt>
+     <Placemark id="AP_38">
+        <name>ALT</name>
+        <description><![CDATA[]]></description>
+        <address>Altkötzschenbroda 38, 01445 Radebeul</address>
+        <LookAt>
+          <longitude>13.63342526619216</longitude>
+          <latitude>51.10420473362508</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.63342526619216,51.10420473362508,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_45">
+        <name>AND</name>
+        <description><![CDATA[]]></description>
+        <address>Altnaundorf 6, 01445 Radebeul</address>
+        <LookAt>
+          <longitude>13.605709075927734</longitude>
+          <latitude>51.11085099910474</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.605709075927734,51.11085099910474,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_145">
+        <name>BLU</name>
+        <description><![CDATA[]]></description>
+        <address>Blumenstraße 6, 01445 Radebeul</address>
+        <LookAt>
+          <longitude>13.634818</longitude>
+          <latitude>51.113399</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.634818,51.113399,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_41">
+        <name>EEW</name>
+        <description><![CDATA[]]></description>
+        <address>Ebereschenweg, 01445 Radebeul</address>
+        <LookAt>
+          <longitude>13.6630448967661</longitude>
+          <latitude>51.09764882095155</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.6630448967661,51.09764882095155,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_46">
+        <name>HAR</name>
+        <description><![CDATA[]]></description>
+        <address>Harmoniestraße, 01445 Radebeul</address>
+        <LookAt>
+          <longitude>13.630632162094116</longitude>
+          <latitude>51.10663760713818</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.630632162094116,51.10663760713818,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_37">
+        <name>HEL</name>
+        <description><![CDATA[]]></description>
+        <address>Hellerstraße, 01445 Radebeul</address>
+        <LookAt>
+          <longitude>13.68709248856156</longitude>
+          <latitude>51.09889126791175</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.68709248856156,51.09889126791175,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_140">
+        <name>HOS</name>
+        <description><![CDATA[]]></description>
+        <address>Hohestraße, 01468 Moritzburg</address>
+        <LookAt>
+          <longitude>13.654176592826843</longitude>
+          <latitude>51.129851957332576</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.654176592826843,51.129851957332576,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_42">
+        <name>KLS</name>
+        <description><![CDATA[]]></description>
+        <address>Karl-Liebknecht-Str. 8, 01445 Radebeul</address>
+        <LookAt>
+          <longitude>13.63502025604248</longitude>
+          <latitude>51.11103286349127</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.63502025604248,51.11103286349127,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_36">
+        <name>KOE</name>
+        <description><![CDATA[]]></description>
+        <address>Kötitzer Straße 6, 01445 Radebeul</address>
+        <LookAt>
+          <longitude>13.625621795654297</longitude>
+          <latitude>51.10547220469888</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.625621795654297,51.10547220469888,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_44">
+        <name>KOT</name>
+        <description><![CDATA[]]></description>
+        <address>Kottenleite 28, 01445 Radebeul</address>
+        <LookAt>
+          <longitude>13.624645471572876</longitude>
+          <latitude>51.120485458233944</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.624645471572876,51.120485458233944,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_48">
+        <name>LUT</name>
+        <description><![CDATA[]]></description>
+        <address>Kirchplatz 2, 01445 Radebeul</address>
+        <LookAt>
+          <longitude>13.672581911087036</longitude>
+          <latitude>51.103474784784076</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.672581911087036,51.103474784784076,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_199">
+        <name>QUE</name>
+        <description><![CDATA[]]></description>
+        <address>Querstr, 01468 Moritzburg</address>
+        <LookAt>
+          <longitude>13.65702509880066</longitude>
+          <latitude>51.130084243919946</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.65702509880066,51.130084243919946,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_148">
+        <name>REI</name>
+        <description><![CDATA[]]></description>
+        <address>Reichenbergerstr., 01445 Radebeul</address>
+        <LookAt>
+          <longitude>13.673053979873657</longitude>
+          <latitude>51.120084764043</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.673053979873657,51.120084764043,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_172">
+        <name>SBS</name>
+        <description><![CDATA[]]></description>
+        <address>Steinbachstraße 21, 01445 Radebeul</address>
+        <LookAt>
+          <longitude>13.65923523902893</longitude>
+          <latitude>51.10404740977356</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.65923523902893,51.10404740977356,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_43">
+        <name>STW</name>
+        <description><![CDATA[]]></description>
+        <address>Auf den Ebenbergen 10a, 01445 Radebeul</address>
+        <LookAt>
+          <longitude>13.62248803047993</longitude>
+          <latitude>51.11593123802948</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.62248803047993,51.11593123802948,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_149">
+        <name>TEI</name>
+        <description><![CDATA[]]></description>
+        <address>, 01468 Moritzburg</address>
+        <LookAt>
+          <longitude>13.66024374961853</longitude>
+          <latitude>51.14033735430696</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.66024374961853,51.14033735430696,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_50">
+        <name>VHS</name>
+        <description><![CDATA[]]></description>
+        <address>Bernhard-Voß-Straße 27, 01445 Radebeul</address>
+        <LookAt>
+          <longitude>13.64376962184906</longitude>
+          <latitude>51.105010751103706</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.64376962184906,51.105010751103706,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_39">
+        <name>WES</name>
+        <description><![CDATA[]]></description>
+        <address>Wilhelm-Eichler-Straße 9, 01445 Radebeul</address>
+        <LookAt>
+          <longitude>13.62741762972262</longitude>
+          <latitude>51.10638790228219</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.62741762972262,51.10638790228219,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_1">
+        <name>WST</name>
+        <description><![CDATA[]]></description>
+        <address>An der Turmleite, 01445 Radebeul</address>
+        <LookAt>
+          <longitude>13.635948300361633</longitude>
+          <latitude>51.11670734634002</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.635948300361633,51.11670734634002,0</coordinates>
+        </Point>
+      </Placemark>
+
+      </Folder>
+     <Folder>
+        <name>Schoenfeld</name>
+        <description><![CDATA[]]></description>
+        <LookAt>
+          <longitude></longitude>
+          <latitude></latitude>
+          <altitude>0</altitude>
+          <range></range>
+          <tilt>9.733975746110964e-012</tilt>
+          <heading>-0.08753148561470861</heading>
+        </LookAt>
+     <Placemark id="AP_197">
+        <name>AFR</name>
+        <description><![CDATA[]]></description>
+        <address>Am Feldrain 39b, 01328 Dresden</address>
+        <LookAt>
+          <longitude>13.887965977191925</longitude>
+          <latitude>51.036766014062316</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.887965977191925,51.036766014062316,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_141">
+        <name>BOB</name>
+        <description><![CDATA[]]></description>
+        <address>Borsbergstraße 6, 01328 Dresden</address>
+        <LookAt>
+          <longitude>13.895639777183533</longitude>
+          <latitude>51.03267406683225</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.895639777183533,51.03267406683225,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_163">
+        <name>CUN</name>
+        <description><![CDATA[]]></description>
+        <address>Cunnersdorfer Straße 52, 01328 Dresden</address>
+        <LookAt>
+          <longitude>13.888156414031982</longitude>
+          <latitude>51.036553498081496</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.888156414031982,51.036553498081496,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_189">
+        <name>RES</name>
+        <description><![CDATA[]]></description>
+        <address>Malschendorfer Str., 01328 Dresden</address>
+        <LookAt>
+          <longitude>13.896898403763771</longitude>
+          <latitude>51.02716049897076</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.896898403763771,51.02716049897076,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_162">
+        <name>STS</name>
+        <description><![CDATA[]]></description>
+        <address>Steile Straße 1, 01328 Dresden</address>
+        <LookAt>
+          <longitude>13.88822078704834</longitude>
+          <latitude>51.034485632974125</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.88822078704834,51.034485632974125,0</coordinates>
+        </Point>
+      </Placemark>
+     <Placemark id="AP_181">
+        <name>VZSCH</name>
+        <description><![CDATA[]]></description>
+        <address>Borsbergstraße 1, 01328 Dresden</address>
+        <LookAt>
+          <longitude>13.896090</longitude>
+          <latitude>51.032930</latitude>
+          <altitude>0</altitude>
+          <range>125.9881866232397</range>
+          <tilt>0</tilt>
+          <heading>0.0002908545724012025</heading>
+        </LookAt>
+        <styleUrl>#AP</styleUrl>
+        <Point>
+          <coordinates>13.896090,51.032930,0</coordinates>
+        </Point>
+      </Placemark>
+
+      </Folder>
+
+  </Document>
+</kml>

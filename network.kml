@@ -1,0 +1,3834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+  <name>Freifunk Dresden</name>
+  <open>1</open>
+  <LookAt>
+    <longitude>13.68</longitude>
+    <latitude>51.043</latitude>
+    <range>20000</range>
+    <tilt>-1.125369999634184e-011</tilt>
+    <heading>2.633241776813333</heading>
+  </LookAt>
+	<Style id="BalloonStyle">
+	<BalloonStyle>
+	<text>balloon
+	</text>	
+	</BalloonStyle>
+	</Style>
+  <Placemark>
+    <name>WLAN Network Links</name>
+    <Style id="wlan">
+      <LineStyle>
+        <color>ff05cbff</color>
+        <width>1</width>
+      </LineStyle>
+    </Style>
+    <MultiGeometry>
+    <LineString id="WLAN_Link_5">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.7481,51.06847,20
+	13.748370,51.068604,0
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_6">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.519350,51.136783,8
+	13.519350,51.136783,4
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_7">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.78880,51.037057,8
+	13.78881,51.037063,10
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_8">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.78880,51.037057,8
+	13.788802,51.037053,6
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_9">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.78880,51.037057,8
+	13.788854,51.037041,7
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_10">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.78880,51.037057,8
+	13.78877,51.037081,6
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_12">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.78880,51.037057,8
+	13.786401,51.034459,11
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_15">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.73561,51.085861,45
+	13.73561,51.085861,13
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_16">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.73561,51.085861,45
+	13.73305567,51.08828942,5
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_17">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.73561,51.085861,45
+	13.734867,51.085433,5
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_18">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.642679,51.0339107,3
+	13.642679,51.0339107,500
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_19">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.455355,51.15618,1
+	13.470783,51.159996,3
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_20">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.455355,51.15618,1
+	13.473476,51.16011,5
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_21">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.73286523,51.08830375,5
+	13.73297989,51.08829532,20
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_22">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.73286523,51.08830375,5
+	13.73561,51.085861,13
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_23">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.73286523,51.08830375,5
+	13.733892,51.088618,3
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_24">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.73286523,51.08830375,5
+	13.73305567,51.08828942,5
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_25">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.78881,51.037063,10
+	13.788854,51.037041,7
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_26">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.78881,51.037063,10
+	13.78877,51.037081,6
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_30">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788802,51.037053,6
+	13.78881,51.037063,10
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_31">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788802,51.037053,6
+	13.788854,51.037041,7
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_32">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788802,51.037053,6
+	13.78877,51.037081,6
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_34">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788802,51.037053,6
+	13.786401,51.034459,11
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_37">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.73297989,51.08829532,20
+	13.73561,51.085861,13
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_38">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.73297989,51.08829532,20
+	13.733892,51.088618,3
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_39">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.470783,51.159996,3
+	13.473476,51.16011,5
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_40">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.73561,51.085861,13
+	13.733892,51.088618,3
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_41">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.7966349,51.0242538,6
+	13.7966349,51.0242538,6
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_42">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.7966349,51.0242538,6
+	13.7966349,51.0242538,6
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_43">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.7966349,51.0242538,6
+	13.7966349,51.0242538,6
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_44">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.7966349,51.0242538,6
+	13.7966349,51.0242538,6
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_45">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.7966349,51.0242538,6
+	13.7966349,51.0242538,6
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_46">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.7966349,51.0242538,6
+	13.7966349,51.0242538,6
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_47">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.7966349,51.0242538,6
+	13.7966349,51.0242538,6
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_48">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.7966349,51.0242538,6
+	13.7966349,51.0242538,6
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_49">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.7966349,51.0242538,6
+	13.7966349,51.0242538,6
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_50">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.7966349,51.0242538,6
+	13.7966349,51.0242538,6
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_51">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.7966349,51.0242538,6
+	13.7966349,51.0242538,6
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_52">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.7966349,51.0242538,6
+	13.7966349,51.0242538,6
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_53">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.7966349,51.0242538,6
+	13.7966349,51.0242538,6
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_54">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.7966349,51.0242538,6
+	13.7966349,51.0242538,6
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_55">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.45616,51.156352,3
+	13.464314,51.153248,10
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_56">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788854,51.037041,7
+	13.78877,51.037081,6
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_58">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788854,51.037041,7
+	13.786401,51.034459,11
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_60">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.78877,51.037081,6
+	13.786401,51.034459,11
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_62">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.786401,51.034459,11
+	13.78881,51.037063,10
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_68">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.713599,51.081204,6
+	13.713599,51.081204,3
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_69">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.642679,51.0339107,500
+	13.642679,51.0339107,500
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_70">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.7966349,51.0242538,6
+	13.7966349,51.0242538,6
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_71">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.751653,51.061027,13
+	13.75157,51.061134,13
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_76">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.73305567,51.08828942,5
+	13.73297989,51.08829532,20
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_77">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.73305567,51.08828942,5
+	13.73561,51.085861,13
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_78">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.73305567,51.08828942,5
+	13.733892,51.088618,3
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_79">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.734867,51.085433,5
+	13.73561,51.085861,13
+       </coordinates>
+    </LineString>
+    <LineString id="WLAN_Link_80">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.734867,51.085433,5
+	13.73305567,51.08828942,5
+       </coordinates>
+    </LineString>
+    </MultiGeometry>
+  </Placemark>
+  <Placemark>
+    <name>VPN Backbone Network Links</name>
+    <Style id="vpn">
+      <LineStyle>
+        <color>ff6700dc</color>
+        <width>1</width>
+      </LineStyle>
+    </Style>
+    <MultiGeometry>
+    <LineString id="BB_Link_1">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.653252,51.033865,0
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_2">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.653252,51.033865,0
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_3">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.788791,51.037053,0
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_4">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.9154834,51.107293,0
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_5">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.73598,51.03599,2
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_6">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	8.842288255691528,48.61395642058001,500
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_7">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	8.842288255691528,48.61395642058001,500
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_8">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.75706,51.07057,9
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_9">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.685205,51.033539,3
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_11">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.689617,51.0097,0
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_12">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.91918,51.109847,17
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_13">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.32888,50.87332,475
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_14">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.813464,51.011417,500
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_15">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.519350,51.136783,8
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_16">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.720989,51.037164,110
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_17">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.572064,51.163252,5
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_18">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.455355,51.15618,1
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_19">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.9154834,51.107293,17
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_20">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.724702,51.076495,15
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_21">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.473805,51.162131,13
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_22">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.759153,51.063609,3
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_23">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.73297989,51.08829532,20
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_24">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.630022,50.985611,197
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_25">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.7966349,51.0242538,6
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_26">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.748370,51.068604,0
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_27">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.485031,51.162502,10
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_28">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.464314,51.153248,10
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_29">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.580631,51.125606,4
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_30">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.580765,51.125909,2
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_31">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.591357,51.125165,35
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_32">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.713599,51.081204,6
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_33">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.625550,51.109231,190
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_34">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.02008,50.68351,2
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_35">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.642679,51.0339107,500
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_36">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.642679,51.0339107,500
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_37">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.75541,51.06588,3
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_38">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.7966349,51.0242538,6
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_39">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.731886,51.031230,5
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_40">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.75157,51.061134,13
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_41">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.658984,51.106078,119
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_42">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.653252,51.033865,0
+	13.757663,51.063316,48
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_44">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.9154834,51.107293,0
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_45">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	8.842288255691528,48.61395642058001,500
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_46">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	8.842288255691528,48.61395642058001,500
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_47">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.75706,51.07057,9
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_48">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.685205,51.033539,3
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_50">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.689617,51.0097,0
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_51">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.91918,51.109847,17
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_52">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.32888,50.87332,475
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_53">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.813464,51.011417,500
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_54">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.519350,51.136783,8
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_55">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.720989,51.037164,110
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_56">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.78880,51.037057,8
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_57">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.572064,51.163252,5
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_58">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.455355,51.15618,1
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_59">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.78881,51.037063,10
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_60">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.9154834,51.107293,17
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_61">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.724702,51.076495,15
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_62">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.473805,51.162131,13
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_63">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.740242,51.068758,12
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_64">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.759153,51.063609,3
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_65">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.73297989,51.08829532,20
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_66">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.630022,50.985611,197
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_67">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.7966349,51.0242538,6
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_68">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.748370,51.068604,0
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_69">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.786401,51.034459,11
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_70">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.485031,51.162502,10
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_71">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.464314,51.153248,10
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_72">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.580631,51.125606,4
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_73">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.580765,51.125909,2
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_74">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.591357,51.125165,35
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_75">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.713599,51.081204,6
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_76">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.625550,51.109231,190
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_77">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.02008,50.68351,2
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_78">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.642679,51.0339107,500
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_79">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.642679,51.0339107,500
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_80">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.75541,51.06588,3
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_81">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.7966349,51.0242538,6
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_82">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.731886,51.031230,5
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_83">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.75157,51.061134,13
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_84">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.788791,51.037053,0
+	13.658984,51.106078,119
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_86">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.9154834,51.107293,0
+	13.91918,51.109847,17
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_87">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.9154834,51.107293,0
+	13.813464,51.011417,500
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_88">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.9154834,51.107293,0
+	13.78880,51.037057,8
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_89">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.9154834,51.107293,0
+	13.572064,51.163252,5
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_90">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.9154834,51.107293,0
+	13.78881,51.037063,10
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_91">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.9154834,51.107293,0
+	13.788802,51.037053,6
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_92">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.9154834,51.107293,0
+	13.9154834,51.107293,17
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_93">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.9154834,51.107293,0
+	13.724702,51.076495,15
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_94">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.9154834,51.107293,0
+	13.630022,50.985611,197
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_95">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.9154834,51.107293,0
+	13.748370,51.068604,0
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_96">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.9154834,51.107293,0
+	13.580631,51.125606,4
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_97">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.9154834,51.107293,0
+	13.580765,51.125909,2
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_98">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.9154834,51.107293,0
+	13.713599,51.081204,6
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_99">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.9154834,51.107293,0
+	13.625550,51.109231,190
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_100">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.9154834,51.107293,0
+	13.642679,51.0339107,500
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_101">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.9154834,51.107293,0
+	13.642679,51.0339107,500
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_102">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.9154834,51.107293,0
+	13.7966349,51.0242538,6
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_104">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.78881,51.037063,10
+	13.788802,51.037053,6
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_105">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.78881,51.037063,10
+	13.786401,51.034459,11
+       </coordinates>
+    </LineString>
+    <LineString id="BB_Link_106">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+        <coordinates>
+	13.519350,51.136783,4
+	13.653252,51.033865,0
+       </coordinates>
+    </LineString>
+    </MultiGeometry>
+  </Placemark>
+  <Folder>
+    <name>Nodes(ddmesh)</name>
+    <open>0</open>
+    <Placemark>
+      <name>Freifunk Dresden 0</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.0.1.ddmesh.de/">10.200.0.1.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Stephan</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.653252,51.033865,0</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_blue.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.0.2.ddmesh.de/">10.200.0.2.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Max</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_blue.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.788791,51.037053,0</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 2</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_blue.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.0.3.ddmesh.de/">10.200.0.3.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Norbert</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_blue.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.9154834,51.107293,0</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 14</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_blue.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.0.15.ddmesh.de/">10.200.0.15.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Stephan</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_blue.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.653252,51.033865,0</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 15</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_blue.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.0.16.ddmesh.de/">10.200.0.16.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Stephan</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_blue.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.653252,51.033865,0</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 105</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.26.65.ddmesh.de/">10.200.26.65.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Cafe+Panjabi+Radeberg</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.91918,51.109847,17</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 106</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.26.129.ddmesh.de/">10.200.26.129.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Bruno</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.689617,51.0097,0</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 108</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.27.1.ddmesh.de/">10.200.27.1.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Horst</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.7481,51.06847,20</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 119</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.29.193.ddmesh.de/">10.200.29.193.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b></td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.32888,50.87332,475</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 120</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.30.1.ddmesh.de/">10.200.30.1.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Mic</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.813464,51.011417,500</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 121</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.30.65.ddmesh.de/">10.200.30.65.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Tina+Addor</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.519350,51.136783,8</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 128</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.32.1.ddmesh.de/">10.200.32.1.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Wolf</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.720989,51.037164,110</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 132</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.33.1.ddmesh.de/">10.200.33.1.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Horst</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.724702,51.076495,15</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 135</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.33.193.ddmesh.de/">10.200.33.193.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Tina+Addor</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.519350,51.136783,4</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 138</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.34.129.ddmesh.de/">10.200.34.129.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Mathias</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.473805,51.162131,13</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 159</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.39.193.ddmesh.de/">10.200.39.193.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Chris</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.740242,51.068758,12</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 167</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.41.193.ddmesh.de/">10.200.41.193.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Sanah</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.759153,51.063609,3</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 169</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_red.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.42.65.ddmesh.de/">10.200.42.65.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Mathias</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_red.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.464314,51.153248,10</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 170</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.42.129.ddmesh.de/">10.200.42.129.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Mathias</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.45616,51.156352,3</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 171</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.42.193.ddmesh.de/">10.200.42.193.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Horst</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.748370,51.068604,0</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1001</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.250.65.ddmesh.de/">10.200.250.65.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>StuRa</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.73598,51.03599,2</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1002</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.3.238.ddmesh.de/">10.200.3.238.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Maximilian</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.78880,51.037057,8</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1003</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.3.239.ddmesh.de/">10.200.3.239.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Maximilian</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.73561,51.085861,45</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1004</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.3.240.ddmesh.de/">10.200.3.240.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Stephan</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.642679,51.0339107,3</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1005</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.3.241.ddmesh.de/">10.200.3.241.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>FeWo+Heyne</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.572064,51.163252,5</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1006</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.3.242.ddmesh.de/">10.200.3.242.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Mathias</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.455355,51.15618,1</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1007</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_red.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.251.193.ddmesh.de/">10.200.251.193.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Mathias</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_red.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.470783,51.159996,3</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1008</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.3.244.ddmesh.de/">10.200.3.244.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Mirko</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.73286523,51.08830375,5</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1009</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_red.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.252.65.ddmesh.de/">10.200.252.65.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Mathias</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_red.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.473476,51.16011,5</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1010</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.252.129.ddmesh.de/">10.200.252.129.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Elektrohaus+Brenner</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>8.842288255691528,48.61395642058001,500</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1011</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.252.193.ddmesh.de/">10.200.252.193.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Elektrohaus+Brenner</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>8.842288255691528,48.61395642058001,500</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1012</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.3.248.ddmesh.de/">10.200.3.248.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Maximilian</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.78881,51.037063,10</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1013</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_red.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.253.65.ddmesh.de/">10.200.253.65.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>MirkoAlaun</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_red.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.75706,51.07057,9</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1014</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_orange.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.253.129.ddmesh.de/">10.200.253.129.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Mic</td></tr>
+<tr><td style="white-space:nowrap;color: #ff0000;"><b>ERROR:</b>Keine g&uuml;ltigen GPS-Daten</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_orange.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.74484741613876,51.04305825772669,500</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1015</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_orange.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.253.193.ddmesh.de/">10.200.253.193.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Mathias</td></tr>
+<tr><td style="white-space:nowrap;color: #ff0000;"><b>ERROR:</b>Keine g&uuml;ltigen GPS-Daten</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_orange.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.74484741613876,51.04305825772669,500</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1016</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.254.1.ddmesh.de/">10.200.254.1.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b></td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.685205,51.033539,3</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1017</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.3.253.ddmesh.de/">10.200.3.253.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Maximilian</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.788802,51.037053,6</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1018</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_red.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.3.254.ddmesh.de/">10.200.3.254.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Schnorpser</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_red.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.9154834,51.107293,17</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1019</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.3.255.ddmesh.de/">10.200.3.255.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Schnorpser</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.9154834,51.107293,17</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1020</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_red.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.1.ddmesh.de/">10.200.4.1.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Zwischenraum</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_red.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.749467,51.067626,5</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1021</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_orange.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.255.65.ddmesh.de/">10.200.255.65.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Mathias</td></tr>
+<tr><td style="white-space:nowrap;color: #ff0000;"><b>ERROR:</b>Keine g&uuml;ltigen GPS-Daten</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_orange.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.74484741613876,51.04305825772669,500</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1022</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_orange.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.3.ddmesh.de/">10.200.4.3.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Maximilian</td></tr>
+<tr><td style="white-space:nowrap;color: #ff0000;"><b>ERROR:</b>Keine g&uuml;ltigen GPS-Daten</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_orange.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.74484741613876,51.04305825772669,500</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1023</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.255.193.ddmesh.de/">10.200.255.193.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Mathias</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.474259,51.163582,10</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1024</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_red.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.5.ddmesh.de/">10.200.4.5.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Schnorpser</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_red.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.9154834,51.107293,17</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1025</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_orange.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.6.ddmesh.de/">10.200.4.6.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Maximilian</td></tr>
+<tr><td style="white-space:nowrap;color: #ff0000;"><b>ERROR:</b>Keine g&uuml;ltigen GPS-Daten</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_orange.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.74484741613876,51.04305825772669,500</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1026</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_red.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.7.ddmesh.de/">10.200.4.7.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Stephan</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_red.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.642679,51.0339107,500</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1027</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.8.ddmesh.de/">10.200.4.8.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Mirko</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.73305567,51.08828942,5</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1028</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.9.ddmesh.de/">10.200.4.9.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>FK</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.734867,51.085433,5</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1030</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_orange.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.201.1.129.ddmesh.de/">10.201.1.129.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b></td></tr>
+<tr><td style="white-space:nowrap;color: #ff0000;"><b>ERROR:</b>Keine g&uuml;ltigen GPS-Daten</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_orange.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.74484741613876,51.04305825772669,500</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1031</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_red.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.12.ddmesh.de/">10.200.4.12.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Mathias</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_red.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.490546,51.161681,3</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1032</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.13.ddmesh.de/">10.200.4.13.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Mirko</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.73297989,51.08829532,20</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1033</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.14.ddmesh.de/">10.200.4.14.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Mathias</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.470783,51.159996,3</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1034</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.15.ddmesh.de/">10.200.4.15.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>FK</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.73561,51.085861,13</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1035</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.16.ddmesh.de/">10.200.4.16.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Sieben</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.630022,50.985611,197</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1036</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.17.ddmesh.de/">10.200.4.17.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Mathias</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.473476,51.16011,5</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1037</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.18.ddmesh.de/">10.200.4.18.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>D.G.+Networks</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.7966349,51.0242538,6</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1038</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.19.ddmesh.de/">10.200.4.19.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>D.G.+Networks</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.7966349,51.0242538,6</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1039</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.20.ddmesh.de/">10.200.4.20.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>D.G.+Networks</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.7966349,51.0242538,6</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1040</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.21.ddmesh.de/">10.200.4.21.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>D.G.+Networks</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.7966349,51.0242538,6</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1041</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.22.ddmesh.de/">10.200.4.22.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Maximilian</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.788854,51.037041,7</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1042</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.23.ddmesh.de/">10.200.4.23.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Maximilian</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.78877,51.037081,6</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1043</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_orange.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.24.ddmesh.de/">10.200.4.24.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Maximilian</td></tr>
+<tr><td style="white-space:nowrap;color: #ff0000;"><b>ERROR:</b>Keine g&uuml;ltigen GPS-Daten</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_orange.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.74484741613876,51.04305825772669,500</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1044</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_blue.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.25.ddmesh.de/">10.200.4.25.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Maximilian</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_blue.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.786401,51.034459,11</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1045</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.26.ddmesh.de/">10.200.4.26.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Mathias</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.485031,51.162502,10</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1046</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.27.ddmesh.de/">10.200.4.27.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Mirko</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.733892,51.088618,3</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1047</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_red.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.28.ddmesh.de/">10.200.4.28.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Stephan</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_red.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.642679,51.0339107,500</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1048</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.201.6.1.ddmesh.de/">10.201.6.1.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Thomas</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.590099,51.138476,2</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1049</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.30.ddmesh.de/">10.200.4.30.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Michael+Lausch</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.580631,51.125606,4</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1050</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.31.ddmesh.de/">10.200.4.31.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Gandert-IT</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.580765,51.125909,2</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1051</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.32.ddmesh.de/">10.200.4.32.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Gerd</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.591357,51.125165,35</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1053</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.34.ddmesh.de/">10.200.4.34.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Internetcafe+Dresden</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.713599,51.081204,6</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1054</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.35.ddmesh.de/">10.200.4.35.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Liebich</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.625550,51.109231,190</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1055</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.36.ddmesh.de/">10.200.4.36.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Tho</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.02008,50.68351,2</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1056</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_blue.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.37.ddmesh.de/">10.200.4.37.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Stephan</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_blue.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.642679,51.0339107,500</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1057</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.38.ddmesh.de/">10.200.4.38.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Stephan</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.642679,51.0339107,500</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1058</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_red.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.39.ddmesh.de/">10.200.4.39.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>PateMirko</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_red.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.711167,51.057493,5</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1059</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.40.ddmesh.de/">10.200.4.40.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>PateMirko</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.75541,51.06588,3</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1061</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.42.ddmesh.de/">10.200.4.42.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>D.G.+Networks</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.7966349,51.0242538,6</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1062</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_red.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.43.ddmesh.de/">10.200.4.43.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b></td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_red.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>14.011032,51.182318,5</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1064</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.45.ddmesh.de/">10.200.4.45.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Campus-Freifunk+Dresden%3A+Hochschulstra%C3%9Fe+47</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.731886,51.031230,5</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1065</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.46.ddmesh.de/">10.200.4.46.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Campus-Freifunk+Dresden%3A+Tieckstra%C3%9Fe+%E2%80%93+02+%28Hof%29</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.751653,51.061027,13</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1066</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.47.ddmesh.de/">10.200.4.47.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Campus-Freifunk+Dresden%3A+Tieckstra%C3%9Fe+%E2%80%93+01+%28Stra%C3%9Fe%29</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.75157,51.061134,13</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1067</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.48.ddmesh.de/">10.200.4.48.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Liebich</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.658984,51.106078,119</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1068</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.49.ddmesh.de/">10.200.4.49.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Philipp</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.757663,51.063316,48</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1070</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.51.ddmesh.de/">10.200.4.51.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>D.G.+Networks</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.7966349,51.0242538,6</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1071</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_orange.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.201.11.193.ddmesh.de/">10.201.11.193.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b></td></tr>
+<tr><td style="white-space:nowrap;color: #ff0000;"><b>ERROR:</b>Keine g&uuml;ltigen GPS-Daten</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_orange.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.74484741613876,51.04305825772669,500</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1075</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.200.4.56.ddmesh.de/">10.200.4.56.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b>Queens+Pub-DD</td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.713599,51.081204,3</coordinates>
+       </Point>
+     </Placemark>
+    <Placemark>
+      <name>Freifunk Dresden 1077</name>
+      <description><![CDATA[
+        <table width="50%" heigh="50%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr><td rowspan="2"><img src="http://www.freifunk-dresden.de/images/map/wifi_a_green.png" width="20" height="20"></td><td style="white-space:nowrap;"><b>Router:</b><a href="http://10.201.13.65.ddmesh.de/">10.201.13.65.ddmesh.de</a></td></tr>
+	<tr>                                                                 <td style="white-space:nowrap;"><b>Admin: </b></td></tr>
+        </table>
+      ]]>
+      </description>
+      <Style>
+		<IconStyle>
+		<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" /> 
+<color>ffffffff</color>
+<scale>1.0</scale>
+<Icon>
+<href>http://www.freifunk-dresden.de/images/map/wifi_a_green.png</href>
+</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+       </Style>
+       <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+         <coordinates>13.685205,51.033539,10</coordinates>
+       </Point>
+     </Placemark>
+  </Folder>
+</Document>
+</kml>
