@@ -1,0 +1,132 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-01T21:49:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1769031438",
+      "properties": {
+        "@id": "node/1769031438",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "4",
+        "fee": "no",
+        "note": "YALE AVE 0180 BLOCK SW SIDE ( 205) 177 FT SE/O STEWART ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-552",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2002-01-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3303863,
+          47.617847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031440",
+      "properties": {
+        "@id": "node/1769031440",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "LENORA ST 0100 BLOCK SE SIDE (  31) 31 FT NE/O TERRY AVE",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-979",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2009-03-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3359189,
+          47.6178622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2312065983",
+      "properties": {
+        "@id": "node/2312065983",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3367947,
+          47.6231014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2812594265",
+      "properties": {
+        "@id": "node/2812594265",
+        "access": "public",
+        "amenity": "bicycle_parking",
+        "capacity": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3361834,
+          47.6238671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2812594266",
+      "properties": {
+        "@id": "node/2812594266",
+        "access": "public",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rack",
+        "capacity": "5",
+        "covered": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3356765,
+          47.6239548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2812594267",
+      "properties": {
+        "@id": "node/2812594267",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rack",
+        "capacity": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3368245,
+          47.6239946
+        ]
+      }
+    }
+  ]
+}
