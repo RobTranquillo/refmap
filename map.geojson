@@ -6,24 +6,6 @@
   "features": [
   {
       "type": "Feature",
-      "id": "",
-      "properties": {
-        "@id": "node/1769031438",
-        "amenity": "bicycle_parking",
-        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
-        "capacity": "4",
-        "fee": "no",
-        "note": "YALE AVE 0180 BLOCK SW SIDE ( 205) 177 FT SE/O STEWART ST",
-        "operator": "SDOT",
-        "sdot:bike_rack:condition": "good",
-        "sdot:bike_rack:facility": "SGL",
-        "sdot:bike_rack:id": "BKR-552",
-        "sdot:bike_rack:type": "BKR",
-        "source": "SDOT Bike Rack Import 2012",
-        "source:license": "Public Domain",
-        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
-        "start_date": "2002-01-15"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
