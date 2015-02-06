@@ -17,7 +17,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "marker-icon" : "star" },
+      "properties": { "marker-symbol" : "star" },
       "geometry": {
         "type": "Point",
         "coordinates": [
