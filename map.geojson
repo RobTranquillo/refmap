@@ -17,19 +17,11 @@
     {
       "type": "Feature",
       "id": "node/2812594266",
-      "properties": {
-        "@id": "node/2812594266",
-        "access": "public",
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "rack",
-        "capacity": "5",
-        "covered": "yes"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3356765,
-          47.6239548
+          51.3356765,
+          13.6239548
         ]
       }
     },
@@ -45,8 +37,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3368245,
-          47.6239946
+          51.3368245,
+          13.6239946
         ]
       }
     }
