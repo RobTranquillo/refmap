@@ -6,7 +6,7 @@
   "features": [
   {
       "type": "Feature",
-      "properties": { "marker-color" : "#FF0000"  },
+      "properties": { "marker-color" : "#FF0000" , "marker-symbol" : "star"  },
       "geometry": {
         "type": "Point",
         "coordinates": [
