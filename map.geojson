@@ -6,7 +6,11 @@
   "features": [
   {
       "type": "Feature",
-      "properties": { "marker-color" : "#FF0000" , "marker-symbol" : "star"  },
+      "properties": { 
+        "marker-color" : "#FF0000", 
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+        },
       "geometry": {
         "type": "Point",
         "coordinates": [
