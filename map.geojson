@@ -113,6 +113,7 @@
     { "type": "Feature", "properties": { "Name": "PIN", "kind" : "buergernetz-hotspot", "marker-symbol" : "oil-well" , "marker-color" : "#000055" }, "geometry": { "type": "Point", "coordinates": [ 13.548953533172607, 51.104532451274409, 0.0 ] } },
     { "type": "Feature", "properties": { "Name": "ROE", "kind" : "buergernetz-hotspot", "marker-symbol" : "oil-well" , "marker-color" : "#000055" }, "geometry": { "type": "Point", "coordinates": [ 13.524727821350098, 51.095723439337206, 0.0 ] } },
     { "type": "Feature", "properties": { "Name": "WIL", "kind" : "buergernetz-hotspot", "marker-symbol" : "oil-well" , "marker-color" : "#000055" }, "geometry": { "type": "Point", "coordinates": [ 13.581923246383667, 51.101177476750514, 0.0 ] } },
+
     { "type": "Feature", "properties": { "Name": "ALT", "kind" : "buergernetz-hotspot", "marker-symbol" : "oil-well" , "marker-color" : "#000055" }, "geometry": { "type": "Point", "coordinates": [ 13.633425266192161, 51.104204733625082, 0.0 ] } },
     { "type": "Feature", "properties": { "Name": "AND", "kind" : "buergernetz-hotspot", "marker-symbol" : "oil-well" , "marker-color" : "#000055" }, "geometry": { "type": "Point", "coordinates": [ 13.605709075927734, 51.110850999104741, 0.0 ] } },
     { "type": "Feature", "properties": { "Name": "BLU", "kind" : "buergernetz-hotspot", "marker-symbol" : "oil-well" , "marker-color" : "#000055" }, "geometry": { "type": "Point", "coordinates": [ 13.634818, 51.113399, 0.0 ] } },
@@ -137,8 +138,8 @@
     { "type": "Feature", "properties": { "Name": "CUN", "kind" : "buergernetz-hotspot", "marker-symbol" : "oil-well" , "marker-color" : "#000055" }, "geometry": { "type": "Point", "coordinates": [ 13.888156414031982, 51.036553498081496, 0.0 ] } },
     { "type": "Feature", "properties": { "Name": "RES", "kind" : "buergernetz-hotspot", "marker-symbol" : "oil-well" , "marker-color" : "#000055" }, "geometry": { "type": "Point", "coordinates": [ 13.896898403763771, 51.027160498970758, 0.0 ] } },
     { "type": "Feature", "properties": { "Name": "STS", "kind" : "buergernetz-hotspot", "marker-symbol" : "oil-well" , "marker-color" : "#000055" }, "geometry": { "type": "Point", "coordinates": [ 13.88822078704834, 51.034485632974125, 0.0 ] } },
-    { "type": "Feature", "properties": { "Name": "VZSCH", "kind" : "buergernetz-hotspot", "marker-symbol" : "oil-well" , "marker-color" : "#000055" }, "geometry": { "type": "Point", "coordinates": [ 13.89609, 51.03293, 0.0 ] } }
-  
+    { "type": "Feature", "properties": { "Name": "VZSCH", "kind" : "buergernetz-hotspot", "marker-symbol" : "oil-well" , "marker-color" : "#000055" }, "geometry": { "type": "Point", "coordinates": [ 13.89609, 51.03293, 0.0 ] } },
+    
 
     { "type": "Feature", "properties": { "kind" : "freifunk-hotspot", "marker-symbol" : "star" , "marker-color" : "#55FF00" }, "geometry": { "type": "Point", "coordinates": [ 13.653252, 51.033865, 0.0 ] } },
     { "type": "Feature", "properties": { "kind" : "freifunk-hotspot", "marker-symbol" : "star" , "marker-color" : "#55FF00" }, "geometry": { "type": "Point", "coordinates": [ 13.788791, 51.037053, 0.0 ] } },
