@@ -226,7 +226,17 @@
     { "type": "Feature", "properties": { "kind" : "freifunk-hotspot", "marker-symbol" : "star" , "marker-color" : "#55FF00" }, "geometry": { "type": "Point", "coordinates": [ 13.7966349, 51.0242538, 6.0 ] } },
     { "type": "Feature", "properties": { "kind" : "freifunk-hotspot", "marker-symbol" : "star" , "marker-color" : "#55FF00" }, "geometry": { "type": "Point", "coordinates": [ 13.744847416138761, 51.043058257726692, 500.0 ] } },
     { "type": "Feature", "properties": { "kind" : "freifunk-hotspot", "marker-symbol" : "star" , "marker-color" : "#55FF00" }, "geometry": { "type": "Point", "coordinates": [ 13.713599, 51.081204, 3.0 ] } },
-    { "type": "Feature", "properties": { "kind" : "freifunk-hotspot", "marker-symbol" : "star" , "marker-color" : "#55FF00" }, "geometry": { "type": "Point", "coordinates": [ 13.685205, 51.033539, 10.0 ] } }
+    { "type": "Feature", "properties": { "kind" : "freifunk-hotspot", "marker-symbol" : "star" , "marker-color" : "#55FF00" }, "geometry": { "type": "Point", "coordinates": [ 13.685205, 51.033539, 10.0 ] } },
+
+    { "type": "Feature", "properties": { "kind" : "Unterkunft", "marker-symbol" : "school" }, "geometry": { "type": "Point", "coordinates": [ 13.70139, 51.0912141, 10.0 ] } },
+    { "type": "Feature", "properties": { "kind" : "Unterkunft", "marker-symbol" : "school" }, "geometry": { "type": "Point", "coordinates": [ 13.7072598236057, 51.07867065, 10.0 ] } },
+    { "type": "Feature", "properties": { "kind" : "Unterkunft", "marker-symbol" : "school" }, "geometry": { "type": "Point", "coordinates": [ 13.7182803938683, 51.05158735, 10.0 ] } },
+    { "type": "Feature", "properties": { "kind" : "Unterkunft", "marker-symbol" : "school" }, "geometry": { "type": "Point", "coordinates": [ 13.7169900875872, 51.0478644, 10.0 ] } },
+    { "type": "Feature", "properties": { "kind" : "Unterkunft", "marker-symbol" : "school" }, "geometry": { "type": "Point", "coordinates": [ 13.7030655862002, 51.04213025, 10.0 ] } },
+    { "type": "Feature", "properties": { "kind" : "Unterkunft", "marker-symbol" : "school" }, "geometry": { "type": "Point", "coordinates": [ 13.7308054, 51.0816525, 10.0 ] } },
+    { "type": "Feature", "properties": { "kind" : "Unterkunft", "marker-symbol" : "school" }, "geometry": { "type": "Point", "coordinates": [ 13.7493146, 51.0777404, 10.0 ] } },
+    { "type": "Feature", "properties": { "kind" : "Unterkunft", "marker-symbol" : "school" }, "geometry": { "type": "Point", "coordinates": [ 13.7647096, 51.0576772, 10.0 ] } },
+    { "type": "Feature", "properties": { "kind" : "Unterkunft", "marker-symbol" : "school" }, "geometry": { "type": "Point", "coordinates": [ 13.8509071, 51.026412, 10.0 ] } }
 
 ]
 }
